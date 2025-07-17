@@ -45,3 +45,20 @@ This is a simple authentication and profile management API built using Node.js, 
 git clone https://github.com/Hasnaa-Nageh/auth-profile-api-nodejs.git  
 cd auth-profile-api-nodejs  
 npm install
+
+## Create a .env file and add the following:
+
+PORT=3000  
+MONGO_URI=your_mongodb_connection  
+JWT_SECRET_ACCESS=your_access_secret  
+JWT_SECRET_REFRESH=your_refresh_secret
+
+
+## Running the Server
+
+npm run dev
+
+
+ىحة
+س
+
