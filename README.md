@@ -39,12 +39,6 @@ This is a simple authentication and profile management API built using Node.js, 
 ├── server.js  
 └── README.md  
 
-## Installation & Setup
-
-```bash
-git clone https://github.com/Hasnaa-Nageh/auth-profile-api-nodejs.git  
-cd auth-profile-api-nodejs  
-npm install
 
 ## Create a .env file and add the following:
 
@@ -54,7 +48,11 @@ JWT_SECRET_ACCESS=your_access_secret
 JWT_SECRET_REFRESH=your_refresh_secret
 
 
-## Running the Server
 
+## Installation & Setup & install
+
+```bash
+git clone https://github.com/Hasnaa-Nageh/auth-profile-api-nodejs.git  
+cd auth-profile-api-nodejs  
+npm install
 npm run dev
-
