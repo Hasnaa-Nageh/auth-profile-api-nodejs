@@ -58,7 +58,3 @@ JWT_SECRET_REFRESH=your_refresh_secret
 
 npm run dev
 
-
-ىحة
-س
-
